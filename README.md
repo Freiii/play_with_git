@@ -8,9 +8,9 @@ Fork it, play with it and improve it!
 
 # My Favorite cities
 
-* Amsterdam
-* Nuremberg
-* Shanghai
+* Rome
+* Seattle
+* Newcastle
 
 ## My favorite animals
 
